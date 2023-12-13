@@ -1,0 +1,29 @@
+C:\Users\Kelevra\Desktop\.net\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\bin\Debug\net6.0\DPRN1_U3_AC_JCRM.exe
+C:\Users\Kelevra\Desktop\.net\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\bin\Debug\net6.0\DPRN1_U3_AC_JCRM.deps.json
+C:\Users\Kelevra\Desktop\.net\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\bin\Debug\net6.0\DPRN1_U3_AC_JCRM.runtimeconfig.json
+C:\Users\Kelevra\Desktop\.net\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\bin\Debug\net6.0\DPRN1_U3_AC_JCRM.dll
+C:\Users\Kelevra\Desktop\.net\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\bin\Debug\net6.0\DPRN1_U3_AC_JCRM.pdb
+C:\Users\Kelevra\Desktop\.net\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\obj\Debug\net6.0\DPRN1_U3_AC_JCRM.csproj.AssemblyReference.cache
+C:\Users\Kelevra\Desktop\.net\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\obj\Debug\net6.0\DPRN1_U3_AC_JCRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelevra\Desktop\.net\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\obj\Debug\net6.0\DPRN1_U3_AC_JCRM.AssemblyInfoInputs.cache
+C:\Users\Kelevra\Desktop\.net\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\obj\Debug\net6.0\DPRN1_U3_AC_JCRM.AssemblyInfo.cs
+C:\Users\Kelevra\Desktop\.net\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\obj\Debug\net6.0\DPRN1_U3_AC_JCRM.csproj.CoreCompileInputs.cache
+C:\Users\Kelevra\Desktop\.net\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\obj\Debug\net6.0\DPRN1_U3_AC_JCRM.dll
+C:\Users\Kelevra\Desktop\.net\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\obj\Debug\net6.0\refint\DPRN1_U3_AC_JCRM.dll
+C:\Users\Kelevra\Desktop\.net\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\obj\Debug\net6.0\DPRN1_U3_AC_JCRM.pdb
+C:\Users\Kelevra\Desktop\.net\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\obj\Debug\net6.0\DPRN1_U3_AC_JCRM.genruntimeconfig.cache
+C:\Users\Kelevra\Desktop\.net\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\obj\Debug\net6.0\ref\DPRN1_U3_AC_JCRM.dll
+F:\UNADM\Quinto Semestre\Programacion Net 1\U3\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\bin\Debug\net6.0\DPRN1_U3_AC_JCRM.exe
+F:\UNADM\Quinto Semestre\Programacion Net 1\U3\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\bin\Debug\net6.0\DPRN1_U3_AC_JCRM.deps.json
+F:\UNADM\Quinto Semestre\Programacion Net 1\U3\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\bin\Debug\net6.0\DPRN1_U3_AC_JCRM.runtimeconfig.json
+F:\UNADM\Quinto Semestre\Programacion Net 1\U3\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\bin\Debug\net6.0\DPRN1_U3_AC_JCRM.dll
+F:\UNADM\Quinto Semestre\Programacion Net 1\U3\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\bin\Debug\net6.0\DPRN1_U3_AC_JCRM.pdb
+F:\UNADM\Quinto Semestre\Programacion Net 1\U3\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\obj\Debug\net6.0\DPRN1_U3_AC_JCRM.GeneratedMSBuildEditorConfig.editorconfig
+F:\UNADM\Quinto Semestre\Programacion Net 1\U3\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\obj\Debug\net6.0\DPRN1_U3_AC_JCRM.AssemblyInfoInputs.cache
+F:\UNADM\Quinto Semestre\Programacion Net 1\U3\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\obj\Debug\net6.0\DPRN1_U3_AC_JCRM.AssemblyInfo.cs
+F:\UNADM\Quinto Semestre\Programacion Net 1\U3\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\obj\Debug\net6.0\DPRN1_U3_AC_JCRM.csproj.CoreCompileInputs.cache
+F:\UNADM\Quinto Semestre\Programacion Net 1\U3\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\obj\Debug\net6.0\DPRN1_U3_AC_JCRM.dll
+F:\UNADM\Quinto Semestre\Programacion Net 1\U3\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\obj\Debug\net6.0\refint\DPRN1_U3_AC_JCRM.dll
+F:\UNADM\Quinto Semestre\Programacion Net 1\U3\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\obj\Debug\net6.0\DPRN1_U3_AC_JCRM.pdb
+F:\UNADM\Quinto Semestre\Programacion Net 1\U3\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\obj\Debug\net6.0\DPRN1_U3_AC_JCRM.genruntimeconfig.cache
+F:\UNADM\Quinto Semestre\Programacion Net 1\U3\DPRN1_U3_AC_JCRM\DPRN1_U3_AC_JCRM\obj\Debug\net6.0\ref\DPRN1_U3_AC_JCRM.dll
